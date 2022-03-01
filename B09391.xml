@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a freeholder in the county of Edinburgh, to his friend in Edinburgh.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1743</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09391</idno>
+            <idno type="OCLC"> 80923015</idno>
+            <idno type="STC">Wing L1372CA</idno>
+            <idno type="STC">ESTC N19485</idno>
+            <idno type="EEBO-CITATION">80923015</idno>
+            <idno type="OCLC">ocm 80923015</idno>
+            <idno type="VID">191909</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191909)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2895:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a freeholder in the county of Edinburgh, to his friend in Edinburgh.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>after 1743?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Wing ascribes a date of [169-?] to an item with this title, however, there is reference made to the Treaty of Worms on p. 8 and a past tense reference to the year 1727 on p. 9.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  18th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:191909:1"/>
+            <head>A LETTER FROM A FREEHOLDER in the County of <hi>Edinburgh,</hi> TO HIS FRIEND in EDINBURGH.</head>
+            <opener>
+               <salute>My dear Friend,</salute>
+            </opener>
+            <p>I Begin this LETTER without any Apo<g ref="char:EOLhyphen"/>logy, as well knowing you will nei<g ref="char:EOLhyphen"/>ther grudge the Trouble of reading theſe Lines, nor that of anſwering them. Though I live in the Neighbour<g ref="char:EOLhyphen"/>hood of the Town of <hi>Edinburgh,</hi> yet the Poorneſs of my Health denies me the Plea<g ref="char:EOLhyphen"/>ſure of paſſing almoſt any Part of my Time
+<pb n="2" facs="tcp:191909:2"/>
+in it: Two or three Days Reſidence there ſhows me that my Conſtitution is not ca<g ref="char:EOLhyphen"/>pable of the ſtronger Pleaſures, and ſend me back again an unwilling Exile to the Country; but as there is no Pleaſure without Pain, ſo there is no Pain without Pleaſure; unable as I am to keep Company with theſe my Heart loves, and to partake of their Plea<g ref="char:EOLhyphen"/>ſures and Diverſions; yet I can go near to ſatisfy my ſelf with the Thoughts, that as I love you, and ſome other Friends, ſo I am (if I miſtake not) belov'd by them.—Re<g ref="char:EOLhyphen"/>flections of this Kind, together with a warm Concern I have for my Country, which leads me to ſpend a good Part of my Time in reading and enquiring what I can, into the Situation of our publick Affairs: Theſe Occupations, I ſay, help me off with my Time, and though the latter, I mean our publick Affairs, afford but a gloomy Pro<g ref="char:EOLhyphen"/>ſpect; yet the Beams of Virtue in particular Perſons, that ſhoot ſometimes athwart this profound Darkneſs, give me an heightned Pleaſure, which I really believe owes its ad<g ref="char:EOLhyphen"/>ditional Strength to the Villany which ſur<g ref="char:EOLhyphen"/>rounds it; juſt as, in Painting, Light is heightned by Shade.</p>
+            <p>
+               <pb n="3" facs="tcp:191909:2"/>
+FROM ſuch general Reflections as theſe, I was, ſome Time ago, awakned by a Call to mind my own particular Duty, as an Elec<g ref="char:EOLhyphen"/>tor of a Repreſentative to ſerve in Parlia<g ref="char:EOLhyphen"/>ment, for the INDEPENDENT COUNTY of <hi>Mid-Lothian.—</hi>I have Abundance of Time for Reflection, ſo I ſet my ſelf down to think, not ſo much indeed, to which of the Candidates named I ſhould give my Vote, as whether I could with a ſafe Conſcience give it to the late Member, who has vacated his Seat, now for the ſecond Time, in order to accept of a new Employ<g ref="char:EOLhyphen"/>ment; which, whether he did voluntarily, or was compelled to do, remains ſtill a great Doubt with me; but as you have greater Opportunities of Knowledge, I beg you will inform me of the Truth of that Mat<g ref="char:EOLhyphen"/>ter.—My Reaſon of Doubt is, That I can<g ref="char:EOLhyphen"/>not think he would again wantonly put him<g ref="char:EOLhyphen"/>ſelf upon his County; nor can I think but that his Succeſſor, in his laſt Place, would have had as much Intereſt as our preſent Candidate, to have ſtepped into this Place, had he choſen it.</p>
+            <p>
+               <pb n="4" facs="tcp:191909:3"/>
+BE that as it will, I ſhall now proceed, though I ſhould exceed the Bounds of a Letter, to inform you that I am now de<g ref="char:EOLhyphen"/>termined to give my Vote againſt the pre<g ref="char:EOLhyphen"/>ſent Candidate upon the Court Intereſt, who was not long ago a Candidate upon the Country Intereſt: My Reaſons, I ſhall likewiſe give you, and if you pleaſe to ſhew them to any of our Friends, I do not op<g ref="char:EOLhyphen"/>poſe it.</p>
+            <p>YOU know, that ever ſince I came to ſucceed to this ſmall Eſtate, which I now poſſeſs, I have always given my Vote to the Candidate, who I thought would op<g ref="char:EOLhyphen"/>poſe the Court; and this I did upon a Prin<g ref="char:EOLhyphen"/>ciple ſomewhat ſingular, though, in my Ap<g ref="char:EOLhyphen"/>prehenſion, not unreaſonable. The Low<g ref="char:EOLhyphen"/>neſs of my Health did not allow me to be preſent at the laſt Election. The two Par<g ref="char:EOLhyphen"/>liaments preceeding this, I voted for a Mem<g ref="char:EOLhyphen"/>ber who oppoſed the Court, and who I ſee, in a late printed Letter, dignify'd by the Title of SOMEBODY, an Appellation, which you know we uſed in our laughing Way, to apply to a Perſon in a much high<g ref="char:EOLhyphen"/>er Station.</p>
+            <p>
+               <pb n="5" facs="tcp:191909:3"/>
+THE Reaſons why I thought my ſelf bound to oppoſe the late Miniſtry (if that may be call'd late, which is now) were plainly theſe, what influenced others I can<g ref="char:EOLhyphen"/>not tell, they beſt know themſelves? In the <hi>firſt</hi> Place, I was, and am ſtill of Opi<g ref="char:EOLhyphen"/>nion, that the late Miniſter was too profuſe of the publick Money, and did not pay ſo large a Proportion of the publick Debts, as he might have done, and a Twenty Years Peace, and an eaſy Adminiſtration enabled him to do.<hi>—2do,</hi> That he, through a Pu<g ref="char:EOLhyphen"/>ſillanimity, which always affected him in foreign Affairs, ſuffered the Nation to be inſulted and abuſed by the <hi>Spaniards,</hi> its Trade and Wealth to decreaſe, and indeed almoſt to periſh; and when, by the Strength of the Oppoſition, he was at laſt forced in<g ref="char:EOLhyphen"/>to a <hi>Spaniſh</hi> War, managed it ſo poorly, that much Loſs and Diſhonour redounded to the Nation from ſuch weak Management, of which indeed the Cauſe was very viſible; That, for twenty Years together, he had diſ<g ref="char:EOLhyphen"/>pos'd of all Military and Naval Preferments, not to thoſe who knew their Buſineſs, but to thoſe who could beſt procure him a Par<g ref="char:EOLhyphen"/>liamentary
+<pb n="6" facs="tcp:191909:4"/>
+Intereſt.<hi>—3tio,</hi> That Corruption, which before his Time was but a narrow Path, became under his Direction a broad<g ref="char:EOLhyphen"/>pav'd Way, eaſy for all Miniſters after him to follow, and perhaps to make it ſtill broad<g ref="char:EOLhyphen"/>er and ſafer.—And <hi>laſtly,</hi> That, in order to gain his M—r's Favour, he too much ſacrificed the Intereſt of his native Country to that of H—r.</p>
+            <p>SUCH, my dear Friend, were the Reaſons that determined me to oppoſe the late Mi<g ref="char:EOLhyphen"/>niſtry, theſe I imbib'd when young, and, if I remember right, were ſtrongly inculcated upon my Mind by this terrible SOME<g ref="char:EOLhyphen"/>BODY, who now ſupports, with all his Power, the Candidate for the Court.—The Schene is now ſhifted, the Heads of the late Oppoſition are now melted down into the old Miniſtry, yet not ſo as to become one Mettal, for the old is ever and anon throw<g ref="char:EOLhyphen"/>ing out ſome Piece of the new; and will, in all Probability, in a little Time, free itſelf entirely from the Mixture.</p>
+            <p>BUT, be that as it may, if the preſent Miniſtry, or call it by what Name you will,
+<pb n="7" facs="tcp:191909:4"/>
+does not alter theſe deſtructive Meaſures I mentioned above. What avails it me, or my Country, that a few Subalterns are changed, and others put in their Room. What I want of you, who hold a Correſpondence with ſome of our Members of Parliament, is, to inform me, Whether it be true, as is reported, and which, from ſeveral Obſervations I have made, I am apt to believe, That our late Friends are ſtill more profuſe of the publick Money than the old Miniſtry, and that, in<g ref="char:EOLhyphen"/>ſtead of paying our former Debts, they are running us into a new and greater Debt: That the <hi>Spaniſh</hi> War is not only neglected, but intirely laid aſide, and the Hopes of Peace, and an Increaſe of Wealth and Trade from that Quarter, by laying Hold of ſome of the Dominions of that Crown in the <hi>Weſt Indies,</hi> altogether blaſted; and they who adviſed and urged the carrying the War in<g ref="char:EOLhyphen"/>to that Quarter, are now totally ſilent upon that Head, and attentive only to a War u<g ref="char:EOLhyphen"/>pon the Continent. Neither, if I am right<g ref="char:EOLhyphen"/>ly informed, are the Wings of Corruption ſhortned. Alas! We have but too many melancholy Inſtances of the contrary, me<g ref="char:EOLhyphen"/>lancholy
+<pb n="8" facs="tcp:191909:5"/>
+to us, but not leſs ſo to the Crea<g ref="char:EOLhyphen"/>tures themſelves, who are guilty in that Way. What ſay you, my Friend, to the <hi>H—v—n</hi> Rudder? Does it more or leſs influence the Councils of <hi>G—B—?</hi> Why? this expen<g ref="char:EOLhyphen"/>ſive War upon the Continent? Why do we keep ſuch a monſtrous Fleet in the <hi>Mediter<g ref="char:EOLhyphen"/>ranean,</hi> upon the Coſt of <hi>Italy?</hi> What has <hi>G—B—</hi>ado with the Treaty of <hi>Worms?</hi> Why theſe odious and inſulting Mercenaries? I am almoſt out of Breath, and you are laughing at me, unhackney'd as I am in a World with whom theſe Things go glibly down; But, pray my Friend, are theſe Things ſo? I believe them to be ſo, and therefore have taken my Reſolution; inform me if you know better: One Queſtion more, and then, Does our late Member and preſent Candidate upon the Court Inte<g ref="char:EOLhyphen"/>reſt, vote along with theſe Miniſters? Does he take Poſts and Places from them? Is he one of them? Does he, in general, concur with their Meaſures? I am told it is ſo; What ſay you? For upon the Verity or Falſhood of theſe Facts depends my Vote, which, for any Thing yet known, I am to
+<pb n="9" facs="tcp:191909:5"/>
+give againſt this Candidate; becauſe, I am apt to believe the Facts reported to be true, but am, nevertheleſs, open to better In<g ref="char:EOLhyphen"/>formation.</p>
+            <p>THESE are the Reaſons that weigh with me in determining my Conduct at the enſu<g ref="char:EOLhyphen"/>ing Election; they have all along weighed with me, and, in my poor Apprehenſion, have determined nine Parts in ten of the Freeholders of this independent County to vote as they have hitherto done, ſince I had the Honour of coming among them in the Year 1727. If they ſtill retain the ſame Principles, and there be ſtill the ſame Reaſon for exerting them, of which I think hardly any Man can doubt, they will, with<g ref="char:EOLhyphen"/>out Queſtion ſhew themſelves to be them<g ref="char:EOLhyphen"/>ſelves, and that, with honeſt Men, the ſame Principles, in the ſame Circumſtances, will always have the ſame Effects.—In a certain Number of any Kind of Men there will always be ſome weak and wicked, and that there are ſuch amongſt our Electors, I have no Doubt; but that a Majority of Gen<g ref="char:EOLhyphen"/>tlemen entirely independent, will in one Day,
+<pb n="10" facs="tcp:191909:6"/>
+in one Hour, entirely counteract the whole former Conduct of their Life, and flatly and avowedly contradict the very fundamen<g ref="char:EOLhyphen"/>tal Maxims which they have been preach<g ref="char:EOLhyphen"/>ing up and inſiſting upon, almoſt ever ſince they could ſpeak, and which indeed ought to govern every honeſt Man's Choice of a Repreſentative, I cannot believe. I ſhall be another <hi>Thomas,</hi> nothing ſhall make me be<g ref="char:EOLhyphen"/>lieve, till I ſee and feel.</p>
+            <p>BUT that Reaſon which is given for ſup<g ref="char:EOLhyphen"/>poſing only, that the Majority will go the other Way, is to me beyond all Conception. And here again, my Friend, I muſt apply to you for Information; it is reported, and I will do in this, as in the former Reports, I will believe them till you inform me bet<g ref="char:EOLhyphen"/>ter: It is reported, I ſay, That a certain—intermeddles ſo ſtrongly in this Election, as not only to condeſcend to ſoothe, but to riſe to Awe and Threatnings. Tho' I told you before I believed this Report, yet I do not believe it as I do a mathematical De<g ref="char:EOLhyphen"/>monſtration; Doubts ariſe. Is it poſſible that he ſhould know ſo little of his Duty,
+<pb n="11" facs="tcp:191909:6"/>
+as to uſe, or threaten to uſe that Advantage the Conſtitution has given him over the reſt of the Freeholders? If he knows his Duty and contemns it, does he not know that there is in our Conſtitution a Remedy for this Evil, for which I want a Name: Will not an Addreſs from a certain Houſe remove him—from this Advantage? He very well knows, what it may coſt a Judge, for mak<g ref="char:EOLhyphen"/>king a falſe Step, by uſing any Kind of Vi<g ref="char:EOLhyphen"/>olence at an Election, having been himſelf, not long ago, the firſt Mover of a very hot Purſuit of the ſame Kind, altho' it prov<g ref="char:EOLhyphen"/>ed ineffectual. I am really not thoroughly informed how and by what Means Know<g ref="char:EOLhyphen"/>ledge of Duty, and a Fear of Danger from deviating, are capable to reſtrain any Man; ſo that, without paying any Compliment, or flattering him upon the Goodneſs of his Heart, there is ſome Reaſon to doubt this Report.</p>
+            <p>BUT, ſetting aſide Conſiderations I have mentioned, the Folly of the Thing makes me doubt very much; the County, as I take it, is independent in no other Senſe,
+<pb n="12" facs="tcp:191909:7"/>
+than that the Members of it are indepen<g ref="char:EOLhyphen"/>dent. The Whip is for Slaves, but free Men are not to be brought over in that Way: What Anſwer do you think, my Friend, I ſhould give any Man that would attack me in that Way? I believe it would prevent a ſecond Application, and, I hope, every Elector will have, at leaſt, as much Spirit, as a poor ſickly Man, who has not much to raiſe his Spirit: But if neither the Knowledge of Duty, nor Fear of Danger, can move him, and if he is not wiſe enough to ſee the Folly of this Enterprize, let the honeſt and generous Reſentment of the free and independent Electors awaken him with a Whip of Scorpions, and let him know the Difference betwixt Free-men and Beaſts of Burden.</p>
+            <p>BUT, if he is ſo wiſe as to diſtinguiſh be<g ref="char:EOLhyphen"/>tween Men, and to threaten ſome, while he ſoothes others; let thoſe, who are threat<g ref="char:EOLhyphen"/>ned, conſider, that they are likewiſe Men; and they, who are ſooth'd, reflect, why there is ſuch an extraordinary Change of Temper in the Soother, <hi>quantum mutatus</hi>
+               <pb n="13" facs="tcp:191909:7"/>
+               <hi>ab illo?</hi> That Change of Principle ſhould change the very Man, is ſtrange!—That <hi>Hotſpur</hi> ſhould, upon Occaſion, be<g ref="char:EOLhyphen"/>come a <hi>Lamb;</hi> That a Court-Colour ſhould ſink ſo deep into a Man's Conſtitution, is to me inconceivable: I am told, That he has been ſeen carrying the meaneſt and pooreſt (in Spirit I mean) of the Voters a<g ref="char:EOLhyphen"/>long with him to Meetings of his Friends, taking them under the Arm, even in the Street, and every Way guilty of extrordinary Condeſcenſion. This indeed is a critical Point, the Greateſt muſt ſtir their Stumps; the Credit of the Party depends upon it; they are ruined in <hi>England,</hi> if they fail a ſecond Time; nevertheleſs, the Line of <hi>Shakeſpear</hi> in the Tragedy of <hi>Julius Cae<g ref="char:EOLhyphen"/>ſar</hi> ſtill forces itſelf into my Memory;</p>
+            <q>O! Mighty <hi>Caeſar,</hi> Art thou fallen thus low?</q>
+            <p>BUT, Are there of our Brethren, who are afraid of future Contingencies of Judicial Evils, which they as yet ſee not? Let them conſider, What Means of Power are
+<pb n="14" facs="tcp:191909:8"/>
+in the Hands of him, who is ſuppoſed wil<g ref="char:EOLhyphen"/>ling to inflict theſe Evils; Are there not others of equal Knowledge and Skill with him? Many Men of Probity and Worth. Is there not ONE MAN, whoſe Integrity is above the Reach of Power, or Corruption of any Kind, whoſe Abilities are too well known for me to ſay any Thing of them; and of whom I may almoſt ſay, what a <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Author, was puniſh'd with Death for, writing of <hi>Brutus,</hi> 
+               <note n="*" place="margin">Tacitus, Lib. 4. Annal. C. 34.</note> That he is <hi>Scotorum ultimus.</hi> Will not he, Will not others inve<g ref="char:EOLhyphen"/>ſtigate and defeat Partiality and Prejudice; ariſing from a Cauſe ſo mean, and ſo well known? Were I juſt now under the Laſh of the Law in any Shape, and were I, what I am not, diſpoſed to make the beſt of my Vote, without any Regard to Conſcience or Honour, I would vote againſt this Court Candidate in Point of Intereſt, and expect to come off by raiſing a Clamour, that I was attack'd purely from Party; Prejudice, and Partiality. But theſe Shifts, I thank
+<pb n="15" facs="tcp:191909:8"/>
+God, I have no Occaſion for, and were it ſo, I am uncapable of having Recourſe to them.</p>
+            <p>MY <hi>Dear Friend,</hi> I am now almoſt as much tired with Writing, as, I dare ſay, you are with Reading; a Moment's Patience more, and I have done.—I am told, ſome of our Freeholders are to be neutral; if this Neutrality proceeds from having exa<g ref="char:EOLhyphen"/>mined both Sides of the Queſtion, and find<g ref="char:EOLhyphen"/>ing not a Grain more Principle of Determi<g ref="char:EOLhyphen"/>mination on one Side than on the other, I have nothing to ſay, but cannot believe it; ſooner ſhall a Peripatetick Philoſopher per<g ref="char:EOLhyphen"/>ſuade me, that an Aſs will ſtarve between two Bundles of Hay, of equal Size and Fi<g ref="char:EOLhyphen"/>gure, than he ſhall perſuade me of this. I take my Leave of Gentlemen, whoſe di<g ref="char:EOLhyphen"/>ſtinguiſhing Faculty is ſo nice, as to remain perfectly in Suſpence, and who are not able to throw the thouſand Part of a Grain into any of the Scales.—The <hi>Spartan</hi> Le<g ref="char:EOLhyphen"/>giſlator <hi>Lycurgus</hi> made it Death for any Man not to take a Side, where any Queſti<g ref="char:EOLhyphen"/>on divided the <hi>Common-Wealth.</hi> Is there a
+<pb n="16" facs="tcp:191909:9"/>
+Man, who does not wiſh we had ſuch a Law in this Country; and who does not laugh at the vain Pretences of Neutraliſts? Vain and idle in this Reſpect above all, that both Parties imagine they hurt them, and neither Party thanks them for not being a<g ref="char:EOLhyphen"/>gainſt them.—</p>
+            <closer>
+               <salute>ADIEU, <hi>My Dear Friend,</hi>
+               </salute> Inform me as to Facts, and I will take the Point of Right in my own Hands.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
